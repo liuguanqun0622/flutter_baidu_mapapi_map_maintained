@@ -42,7 +42,7 @@ rootProject.allprojects {
 //apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 35
+    compileSdkVersion 36
 
     namespace 'com.baidu.bmfmap'
 
